@@ -6,7 +6,7 @@
     flake-parts.url = "github:hercules-ci/flake-parts";
 
     palette = {
-      url = "github:kansedari/catppuccin-palette";
+      url = "github:ionawr/catppuccin-palette";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
